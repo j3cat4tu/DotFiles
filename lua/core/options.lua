@@ -6,7 +6,7 @@ local cmd = vim.cmd
 
 
 -- Colorscheme
-cmd("colorscheme catppuccin")
+--cmd("colorscheme catppuccin")
 -- Definições Principais
 
 o.showmode = false
